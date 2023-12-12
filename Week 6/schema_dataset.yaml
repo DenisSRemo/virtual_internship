@@ -1,0 +1,7 @@
+columns:
+- app_id
+- app_name
+- review_text
+- review_score
+- review_votes
+separator: ','
